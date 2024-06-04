@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Razer
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning idk js py 
-- 💞️ I’m looking to collaborate on py games 
+- 👀 I like to code
+- 🌱 I am lerning Visual Basic and C# and Python
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: some types of soft serve ice cream are 60% air such a scam
 
